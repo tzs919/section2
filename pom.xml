@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>section1</artifactId>
+    <artifactId>section2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>第二节</name>
     <description>依赖注入（Dependency Injection）</description>
